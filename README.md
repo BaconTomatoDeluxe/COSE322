@@ -1,4 +1,4 @@
-# cose322
+# COSE322
 2024-2R System Programming  
 Instructor: Prof. Sangeun Oh
 
